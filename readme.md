@@ -1,8 +1,4 @@
-#Heading
+#This is a markdown file.
+#wow
 
-This is a lne.
-
-This is a sentence which has been changed.  
-This is a new line.
-
-printf("hello\nworld");
+#this is lefffftt brunchh
